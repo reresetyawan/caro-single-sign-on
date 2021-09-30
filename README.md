@@ -1,2 +1,3 @@
-# caro-single-sign-on
-CARO - Simple SSO - Single Sign On
+# CARO SSO for Client
+
+CARO - Simple SSO Client - Single Sign On Client
